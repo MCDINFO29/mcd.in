@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCD - Moturi Constructions & Developers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        nav {
+            background: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        section {
+            padding: 20px;
+        }
+        .testimonials, .properties, .team, .gallery {
+            background: #ddd;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        footer {
+            background: #222;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        MCD - Moturi Constructions & Developers
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#properties">Properties</a>
+        <a href="#team">Team</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We specialize in buying & selling properties, handling property paperwork, legal opinions, guiding right investments, and dealing with litigations.</p>
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Property Buying & Selling</li>
+            <li>Property Paperwork</li>
+            <li>Legal Opinions</li>
+            <li>Investment Guidance</li>
+            <li>Litigation Handling</li>
+        </ul>
+    </section>
+    <section id="properties" class="properties">
+        <h2>Our Properties</h2>
+        <p>Explore our latest property listings and find your dream home.</p>
+    </section>
+    <section id="team" class="team">
+        <h2>Meet Our Team</h2>
+        <p>Our experienced professionals are here to assist you with all your real estate needs.</p>
+    </section>
+    <section id="gallery" class="gallery">
+        <h2>Gallery</h2>
+        <p>Take a look at some of our completed and ongoing projects.</p>
+    </section>
+    <section id="testimonials" class="testimonials">
+        <h2>What Our Clients Say</h2>
+        <p>"MCD helped me find my dream home with ease! Highly recommend their services." - Happy Client</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@mcdrealestate.com</p>
+        <p>Phone: +91 98765 43210</p>
+    </section>
+    <footer>
+        &copy; 2025 MCD - Moturi Constructions & Developers. All Rights Reserved.
+    </footer>
+</body>
+</html>
